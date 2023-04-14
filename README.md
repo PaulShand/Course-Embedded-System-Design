@@ -1,0 +1,8 @@
+Class work done in Embedded System Design class:
+Lab 1-4 utilize PSoC 6 CY8CPROTO-063-BLE:
+Lab 1 In this lab, you will gain basic familiarity with the PSoC 6 CY8CPROTO-063-BLE prototyping Kit (which we’ll just call ‘PSoC 6’ from now on) and the Modus Toolbox IDE you use for subsequent labs. Specifically, you will write programs to blink the PSoC 6’s internal LEDs in four ways. All programs are examples of setting the values (voltages) of digital pins on the PSoC 6.
+Lab 2 In this lab you will use additional hardware components in the PSoC 6 microcontroller to 
+develop systems that respond to external input. As you are gaining familiarity with the PSoC 6 and Modus Toolbox, the step-by-step instructions found in Lab 1 are no longer required. Instead, higher-level instructions are given, the details of which require a modest level of self-study and investigation. In particular, leverage the API documentation for each new functionality.
+Lab 3 In this lab you will use the internal and external hardware you gained familiarity with while working on Lab 2 and add to that an understanding of the I2C protocol used to connect multiple digital devices in embedded systems.
+Lab 4 In this lab, you will use an additional external hardware component to estimate the distance and speed of nearby objects and make those metrics available over Bluetooth Low Energy (BLE) so that suitably equipped computers, phones, and tablets can query current values.
+Lab 5 In this lab you will gain familiarity with an alternative Microcontroller Development kit, the Arduino Nano 33 BLE. You will not be using your PSoC in this lab! As always, be sure to give credit to the authors of any code you find and base your submission on.
